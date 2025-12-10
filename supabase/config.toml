@@ -1,0 +1,7 @@
+project_id = "frrvzeoupdkfekbymlxu"
+
+[functions.shopify-freight]
+verify_jwt = false
+
+[functions.carrier-service]
+verify_jwt = false
